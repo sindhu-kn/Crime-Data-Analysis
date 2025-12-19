@@ -58,5 +58,6 @@ Key Insights
 
 
 Screenshots: ![Dashboard Preview](https://github.com/sindhu-kn/Crime-Data-Analysis/blob/main/Crime%20Data%20Analysis%20-%20Dashboard%201.png)
+             ![Dashboard Preview](https://github.com/sindhu-kn/Crime-Data-Analysis/blob/main/Crime%20Data%20Analysis%20-%20Dashboard%202.png)
 
 
